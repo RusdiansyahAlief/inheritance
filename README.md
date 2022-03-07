@@ -1,0 +1,2 @@
+# inheritance
+bahasa pemrograman java
